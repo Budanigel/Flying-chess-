@@ -12,4 +12,4 @@ while chess_tools.end_flag:
             break
         chess_tools.hit(player)
         chess_tools.speedup(player)
-        print("")
+        print(";;")
